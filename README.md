@@ -1,6 +1,8 @@
 # Olá, me chamo Gabriel Coelho Verçosa ! 
 
-<img loading="lazy" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FJavaScript&psig=AOvVaw0HVhH03cPHmSYS_CLcEScc&ust=1702474743348000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDTneWCioMDFQAAAAAdAAAAABAD" width="40" height="40"/>
+<img loading="lazy" src="
+            <i class="devicon-javascript-plain colored"></i>
+          " width="40" height="40"/>
 
 ## Contatos:
 <div>
