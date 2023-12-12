@@ -16,7 +16,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um aspirante a desenvolvedor, atualmente 
 
 ## Dashboard de Linguagens
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvercosa&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvercosa&show_icons=true&theme=tokyonight)
 
 ## Acompanhe meu Progresso
 
