@@ -23,3 +23,5 @@ Bem-vindo ao meu perfil do GitHub! Sou um aspirante a desenvolvedor, atualmente 
 Sinta-se à vontade para explorar meus repositórios e acompanhar meu progresso. Estou sempre aberto a colaborações e feedbacks!
 
 Vamos crescer juntos! 🚀✨
+
+![Snake animation](https://github.com/gabrielvercosa/gabrielvercosa/blob/output/github-contribution-grid-snake.svg)
