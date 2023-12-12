@@ -16,7 +16,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um aspirante a desenvolvedor, atualmente 
 
 ## Dashboard de Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvercosa&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvercosa&show_icons=true&theme=radical)
 
 ## Acompanhe meu Progresso
 
