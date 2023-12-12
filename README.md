@@ -1,5 +1,6 @@
-# Olá, me chamo Gabriel Coelho ! 
-## Bem vindo ao meu perfil GitHub 👋
+# Olá, me chamo Gabriel Coelho Verçosa ! 
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 ## Contatos:
 <div>
@@ -7,6 +8,7 @@
 <a href = "https://mail.google.com/mail/u/0/#inbox"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-coelho-a1216926b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 
 <div>
 <a href="https://github.com/gabrielvercosa">
