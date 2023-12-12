@@ -1,4 +1,6 @@
-# Olá, me chamo Gabriel Coelho Verçosa ! 
+Olá, sou o Gabriel Coelho Verçosa,
+
+Estou no início da minha jornada na área de programação, concentrando meus esforços nas linguagens front-end, como JavaScript, HTML e CSS. Ao longo do tempo, pretendo evoluir para me tornar um desenvolvedor Full Stack. Acompanhe meu progresso e projetos aqui no GitHub! 🚀✨
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 
