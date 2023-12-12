@@ -1,4 +1,4 @@
-Olá, sou o Gabriel Coelho Verçosa,
+##Olá, sou o Gabriel Coelho Verçosa,
 
 Estou no início da minha jornada na área de programação, concentrando meus esforços nas linguagens front-end, como JavaScript, HTML e CSS. Ao longo do tempo, pretendo evoluir para me tornar um desenvolvedor Full Stack. Acompanhe meu progresso e projetos aqui no GitHub! 🚀✨
 
